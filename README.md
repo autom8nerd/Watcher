@@ -47,7 +47,7 @@ Funfact: You might be thinking how can someone has 14 hrs of screen time in a si
 - Then run install script
 
 ```bash
-$ chmod +x ./install && ./install
+ chmod +x ./install && ./install
 ```
 
 ### Want to Contribute
