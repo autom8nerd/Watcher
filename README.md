@@ -38,13 +38,13 @@ Funfact: You might be thinking how can someone has 14 hrs of screen time in a si
  sudo [package-manager] install xprintidle xdotool
 ```
 
-- Second, Copy the Following Command and paste in terminal
+- Second, Download the install script
 
 ```bash
- bash <(curl -s https://raw.githubusercontent.com/Waishnav/Watcher/main/install)
+ curl -s https://raw.githubusercontent.com/Waishnav/Watcher/main/install -o install
 ```
 
-- Then run install script
+- Third, Run the install script
 
 ```bash
  chmod +x ./install && ./install
